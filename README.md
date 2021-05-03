@@ -129,7 +129,7 @@ URL: https://viacep.com.br/ws/RS/Gravatai/Barroso/json/
 #### Executar o Teste
 Executar pela IDE de sua preferência os arquivos: 
 ```
-Suite.java                                     # Suite de teste para quando há login de cliente ao entrar no site
+ConsultasTest.java                                     # Suite de teste para quando há login de cliente ao entrar no site
 ```
 
 #### Execução dos testes:
