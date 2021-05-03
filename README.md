@@ -54,7 +54,7 @@ CreditLimit: 200
 
 #### Estruturação do Projeto:
 ```
-├── /AutomationProject                                # Projeto                                                                                          
+├── groceryCrudProject                                # Projeto                                                                                          
     ├── src/main/java                                 #                                                                                                         
         ├── br.df.lseabra.core                        # Pacote de Core                                                                                        
             ├── BasePage.java                         # Classe que será extendida pelas classes de page/ vários métodos que podem ser utilizados
@@ -116,7 +116,7 @@ URL: https://viacep.com.br/ws/RS/Gravatai/Barroso/json/
 
 #### Estruturação do Projeto:
 ```
-├── /ReqresAPI                                        # Projeto                                                                                          
+├── ViaCepAPI                                         # Projeto                                                                                          
     ├── src/main/java                                 #                                                                                                         
         ├── br.df.lseabra.core                        # Pacote de Core                                                                                        
             ├── BaseTest.java                         # classe que será extendida pelas classes de teste
