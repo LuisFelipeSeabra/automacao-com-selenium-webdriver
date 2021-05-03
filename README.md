@@ -7,8 +7,8 @@
 
 ## Documentação útil
 
-1. [Projeto Automação WEB]()
-2. [Projeto Automação API]()
+1. [Projeto Automação WEB](https://github.com/LuisFelipeSeabra/prova_sicredi/tree/master/groceryCrudProject)
+2. [Projeto Automação API](https://github.com/LuisFelipeSeabra/prova_sicredi/tree/master/ViaCepAPI)
 
 
 ## Projeto Automação WEB
