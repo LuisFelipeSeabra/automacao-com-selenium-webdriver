@@ -21,15 +21,14 @@ Padrão de projeto: Page Objects
 
 #### Desafio:
 ```
-Observação:
+- Observação:
 O script deve executar no browser Google Chrome
 
-Passos:
+- Passos:
 
 1.	Acessar a página https://www.grocerycrud.com/demo/bootstrap_theme
 2.	Mudar o valor da combo Select version para “Bootstrap V4 Theme”
 3.	Clicar no botão Add Customer
-
 4.	Preencher os campos do formulário com as seguintes informações:
 
 Name: Teste Sicredi
