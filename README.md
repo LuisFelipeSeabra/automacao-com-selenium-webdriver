@@ -1,7 +1,7 @@
 # Bem-vindo ao desafio
 
 <div align="center">
-  <img src="https://www.sicredi.com.br/static/assets/novo/logo-cor.svg" width="300px"/>
+  <img src="https://www.learntek.org/blog/wp-content/uploads/2018/05/Selenium-3-webdriver.jpg" width="300px"/>
 </div>
 
 
